@@ -15,5 +15,3 @@ El contrato emite eventos en la blockchain para cada acción importante: cuando 
 
 Uso del Contrato
 Los usuarios interactúan principalmente a través de tres funciones: puja() para hacer ofertas, retirar() para reclamar fondos de ofertas no ganadoras, y finalizar() (solo para el beneficiario) para concluir la subasta y recibir los fondos. El contrato también ofrece funciones de consulta para verificar el estado actual, el tiempo restante y los detalles del ítem en subasta.
-
-Este diseño proporciona un sistema completo y seguro para realizar subastas descentralizadas, ideal para la venta de NFTs, artículos digitales u otros bienes en el ecosistema blockchain.
